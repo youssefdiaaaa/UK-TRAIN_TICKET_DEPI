@@ -8,20 +8,15 @@ Dashboard Pages
 
 The Power BI report is structured into several interactive pages, each designed to provide specific insights:
 
-•
-Dashboard (Main Overview): A high-level summary of key performance indicators (KPIs) related to train ticket sales and overall operational health.
+•Dashboard (Main Overview): A high-level summary of key performance indicators (KPIs) related to train ticket sales and overall operational health.
 
-•
-Tickets Overview: Detailed analysis of ticket types, sales trends, and passenger demographics.
+•Tickets Overview: Detailed analysis of ticket types, sales trends, and passenger demographics.
 
-•
-Delays Analysis: Examination of train delays, their causes, and impact on service quality and refunds.
+•Delays Analysis: Examination of train delays, their causes, and impact on service quality and refunds.
 
-•
-Financial Analysis: Comprehensive breakdown of revenue streams, costs associated with delays and cancellations, and profitability metrics.
+•Financial Analysis: Comprehensive breakdown of revenue streams, costs associated with delays and cancellations, and profitability metrics.
 
-•
-Credits: Information about the project team and acknowledgements.
+•Credits: Information about the project team and acknowledgements.
 
 Data Source
 
@@ -31,35 +26,27 @@ Key Insights and Analysis
 
 Through this project, we identified several critical insights:
 
-•
-Popular Routes: Identification of the most frequently traveled routes and their contribution to overall revenue.
+•Popular Routes: Identification of the most frequently traveled routes and their contribution to overall revenue.
 
-•
-Peak Travel Times: Analysis of passenger volume and revenue generation during different times of the day, highlighting peak hours.
+•Peak Travel Times: Analysis of passenger volume and revenue generation during different times of the day, highlighting peak hours.
 
-•
-Revenue by Ticket Type: Understanding the financial performance across various ticket categories and classes.
+•Revenue by Ticket Type: Understanding the financial performance across various ticket categories and classes.
 
-•
-On-time Performance: Evaluation of train punctuality and the financial implications of delays and cancellations, including refund analysis.
+•On-time Performance: Evaluation of train punctuality and the financial implications of delays and cancellations, including refund analysis.
 
 Technologies Used
 
-•
-Microsoft Power BI: For data modeling, visualization, and dashboard creation.
+•Microsoft Power BI: For data modeling, visualization, and dashboard creation.
 
 Team Members
 
 This project was a collaborative effort by the following members:
 
-•
-Youssef Diaa Abd-Elwahab
+•Youssef Diaa Abd-Elwahab
 
-•
-Hussain Kamal Mohammed
+•Hussain Kamal Mohammed
 
-•
-Steven Osama Mansour
+•Steven Osama Mansour
 
 Acknowledgements
 
@@ -67,12 +54,9 @@ We extend our sincere gratitude to the Egypt Digital Pioneers Initiative (DEPI) 
 
 How to Use
 
-1.
-Download the UK_Train_Tickets___gradF.pbix file.
+1.Download the UK_Train_Tickets___gradF.pbix file.
 
-2.
-Open the file using Microsoft Power BI Desktop.
+2.Open the file using Microsoft Power BI Desktop.
 
-3.
-Navigate through the different dashboard pages to explore the analysis and insights.
+3.Navigate through the different dashboard pages to explore the analysis and insights.
 
